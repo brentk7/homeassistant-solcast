@@ -1,5 +1,5 @@
 {
-  "domain": "solcast",
+  "domain": "solcastx",
   "name": "Solcast PV forecast",
   "version": "0.2.5",
   "documentation": "https://github.com/dannerph/homeassistant-solcast",
